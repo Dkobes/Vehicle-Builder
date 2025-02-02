@@ -11,16 +11,17 @@
   7. [Badges](#badges)
 
   ## Description
-  This project is meant to allow sers to select existing vehicles or create new vehicles, and then perform certain actions with them.
+  This project is meant to allow users to select existing vehicles or create new vehicles, and then perform certain actions with them.
 
   ## Installation
   npm install inquirer
 
   ## Usage
   The application will be invoked by using npm start
+  Then users will be allowed to go through pre-existing vehicles and select from those, or create a new one, to see what all actions can be performed within that vehicle.
 
   ## Credits
-  When running into errors, collaborating with peers, and looking up solutions to find best solutions were used.
+  When running into errors, collaborating with peers, and looking up solutions were best used.
 
   ## License
   N/A
