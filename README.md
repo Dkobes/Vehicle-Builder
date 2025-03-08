@@ -19,6 +19,8 @@
   ## Usage
   The application will be invoked by using npm start
   Then users will be allowed to go through pre-existing vehicles and select from those, or create a new one, to see what all actions can be performed within that vehicle.
+  Here is a video showing the app being used
+  https://drive.google.com/file/d/1RFBVW-qPmztOgy1KOQ8fkamuOOOgpeih/view
 
   ## Credits
   When running into errors, collaborating with peers, and looking up solutions were best used.
